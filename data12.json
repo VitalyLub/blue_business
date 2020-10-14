@@ -1,0 +1,26 @@
+[
+{
+	"name" : "a", 
+	"capital" : "b", 
+	"contact" : [{"type":"phone","text":"050-2926117"},{"type":"site","text":"http://www.coffeeblend.co.il/"},{"type":"mail","text":"Coffeeblend2020@gmail.com"},{"type":"facebook","text":"https://www.facebook.com/Coffee-blend-103534784681351"}],
+	"flag" : "//theblue.org.il/images/uploads/CoffeeBlend.png",
+},
+{
+	"name" : "sda", 
+	"capital" : "sda", 
+	"contact" : [{"type":"phone","text":"050-2926117"},{"type":"site","text":"http://www.coffeeblend.co.il/"},{"type":"mail","text":"Coffeeblend2020@gmail.com"},{"type":"facebook","text":"https://www.facebook.com/Coffee-blend-103534784681351"}],
+	"flag" : "//theblue.org.il/images/uploads/CoffeeBlend.png",
+},
+{
+	"name" : "adas", 
+	"capital" : "bdas", 
+	"contact" : [{"type":"phone","text":"050-2926117"},{"type":"site","text":"http://www.coffeeblend.co.il/"},{"type":"mail","text":"Coffeeblend2020@gmail.com"},{"type":"facebook","text":"https://www.facebook.com/Coffee-blend-103534784681351"}],
+	"flag" : "//theblue.org.il/images/uploads/CoffeeBlend.png",
+},
+{
+	"name" : "adasgw", 
+	"capital" : "bffs", 
+	"contact" : [{"type":"phone","text":"050-2926117"},{"type":"site","text":"http://www.coffeeblend.co.il/"},{"type":"mail","text":"Coffeeblend2020@gmail.com"},{"type":"facebook","text":"https://www.facebook.com/Coffee-blend-103534784681351"}],
+	"flag" : "//theblue.org.il/images/uploads/CoffeeBlend.png",
+},
+]
