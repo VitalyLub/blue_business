@@ -1,8 +1,8 @@
 [
 {
 "title":"אפגניסטן",
-"capital":"Kabul",
+"subtitle":"Kabul",
 "currencies":[{"code":"AFN","name":"Afghan afghani","symbol":"؋"}],
-"flag":"https://restcountries.eu/data/afg.svg"
+"logo":"https://restcountries.eu/data/afg.svg"
 }
 ]
