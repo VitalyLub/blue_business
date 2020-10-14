@@ -1,37 +1,26 @@
 [
 {
-	"name" : "קופי בלנד", 
-	"capital" : "לקבלת הטבה", 
+	"name" : "a", 
+	"capital" : "b", 
 	"contact" : [{"type":"phone","text":"050-2926117"},{"type":"site","text":"http://www.coffeeblend.co.il/"},{"type":"mail","text":"Coffeeblend2020@gmail.com"},{"type":"facebook","text":"https://www.facebook.com/Coffee-blend-103534784681351"}],
 	"flag" : "//theblue.org.il/images/uploads/CoffeeBlend.png",
-	"description" : "קופי בלנד החברה מהמובילות בישראל במתן פתרונות קפה מתקדמים לעסקים משרדים חברות ופרטיים. חברתנו משווקת מכונות קפה/פולי קפה/ קפסולות תואמות נספרסו ומגוון רחב וגדול של עולם הקפה!
-חברתנו מתמחה במתן שירות מהמובילים בישראל!
-חברתנו בבעלות רונן וולף אשר מגיע מעולם הקפה בניסיון רב שנים החל מ2004 - כאן תמיד לשירותכם כי אם קפה ורק קפה זה אנחנו
-איזור שירות בכל הארץ, בפ"ת משלוח חינם (מינימום הזמנה)."
 },
 {
-	"name" : "אור-קור יוסי", 
-	"capital" : "15% הנחה בהצגת כרטיס חבר", 
-	"contact" : [{"type":"phone","text":" 050-538-9188"}],
-	"flag" : "//theblue.org.il/images/uploads/Screen Shot 2018-02-02 at 13.02.55.png",
-	"description" : ""
+	"name" : "sda", 
+	"capital" : "sda", 
+	"contact" : [{"type":"phone","text":"050-2926117"},{"type":"site","text":"http://www.coffeeblend.co.il/"},{"type":"mail","text":"Coffeeblend2020@gmail.com"},{"type":"facebook","text":"https://www.facebook.com/Coffee-blend-103534784681351"}],
+	"flag" : "//theblue.org.il/images/uploads/CoffeeBlend.png",
 },
 {
-	"name" : "אקסודוס האב", 
-	"capital" : "כל חבר עמותה שנמנה על 1000 חברי העמותה הראשונים, יזכה לחודש שכירות חינם בחתימת חוזה השכרה לשנה", 
-	"contact" : [{"type":"phone","text":" 03-9225588"},{"type":"site","text":"https://www.spacing.co.il/location/262_1"},{"type":"facebook","text":"https://www.facebook.com/ExodusHUB/"}],
-	"flag" : "//theblue.org.il/images/uploads/Exodus.Hub.png",
-	"description" : "אקסודוס האב מציע ליזמים, עצמאיים, סטארטאפים וחברות קטנות שטחי עבודה.
-המתחם כולל 3 מתחמי ענק מעוצבים ומאובזרים.
-במחיר השכרת שולחן/משרד נכללים חיבור לאינטרנט, חשמל, מים, ארנונה, ניקיון, ניהול, הדפסה, בירות מים וקפה.
-באקסודוס יושבת קהילה המורכבת לא רק מיזמים צעירים ומבטיחים, אלא גם מאנשי מקצוע כמו עורכי דין,
-חברות קטנות ומגוון רחב של אנשי מקצוע. במקום מתקיימים Meetups ושאר ארועים אותם יוכלו גם היזמים עצמם לארגן."
+	"name" : "adas", 
+	"capital" : "bdas", 
+	"contact" : [{"type":"phone","text":"050-2926117"},{"type":"site","text":"http://www.coffeeblend.co.il/"},{"type":"mail","text":"Coffeeblend2020@gmail.com"},{"type":"facebook","text":"https://www.facebook.com/Coffee-blend-103534784681351"}],
+	"flag" : "//theblue.org.il/images/uploads/CoffeeBlend.png",
 },
 {
-	"name" : "a", 
-	"capital" : "a", 
-	"contact" : [{"type":"phone","text":"a"},{"type":"phone","text":"a"},{"type":"phone","text":"a"},{"type":"phone","text":"a"}],
-	"flag" : "a",
-	"description" : "a"
-}
+	"name" : "adasgw", 
+	"capital" : "bffs", 
+	"contact" : [{"type":"phone","text":"050-2926117"},{"type":"site","text":"http://www.coffeeblend.co.il/"},{"type":"mail","text":"Coffeeblend2020@gmail.com"},{"type":"facebook","text":"https://www.facebook.com/Coffee-blend-103534784681351"}],
+	"flag" : "//theblue.org.il/images/uploads/CoffeeBlend.png",
+},
 ]
